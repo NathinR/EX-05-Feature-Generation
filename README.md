@@ -150,3 +150,20 @@ rf5=pd.DataFrame(sc3.fit_transform(rf1),columns=['Passenger','Survived','Pclass'
 rf5
 ```
 # OUPUT
+## Data.csv
+![image](https://user-images.githubusercontent.com/118679646/232740397-6d204120-55bc-493c-9aa5-188359271a14.png)
+![image](https://user-images.githubusercontent.com/118679646/232740586-2f4af13c-ab9b-4700-8497-64464eef2dba.png)
+![image](https://user-images.githubusercontent.com/118679646/232741444-36ea48f6-7a81-4c05-8174-b8f2b93521b8.png)
+![image](https://user-images.githubusercontent.com/118679646/232741637-4a93eacf-61b9-4860-ba01-58f651d240c0.png)
+
+## Encoding.csv
+![image](https://user-images.githubusercontent.com/118679646/232741875-b62a913c-c033-4628-9714-92cfaa3860dd.png)
+![image](https://user-images.githubusercontent.com/118679646/232742028-246cea61-03e3-4290-8f5c-0940f6247473.png)
+![image](https://user-images.githubusercontent.com/118679646/232742219-9100b9ac-30df-428d-a40d-4ee6eb37a186.png)
+![image](https://user-images.githubusercontent.com/118679646/232742335-30d8ce8f-ba87-4072-9289-4413c30c9b4f.png)
+
+## Titanic.csv
+![image](https://user-images.githubusercontent.com/118679646/232742567-ce9d9e1f-0655-4a44-9611-039a37b2b537.png)
+![image](https://user-images.githubusercontent.com/118679646/232742800-39ffd87b-6cbd-499c-8537-0707c12c1a4b.png)
+![image](https://user-images.githubusercontent.com/118679646/232743122-8969a0f7-9230-4709-a2c6-15627fb29bcd.png)
+![image](https://user-images.githubusercontent.com/118679646/232743278-e4569840-9b3f-48c4-bc5a-b5c45c0a5999.png)
