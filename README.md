@@ -167,3 +167,6 @@ rf5
 ![image](https://user-images.githubusercontent.com/118679646/232742800-39ffd87b-6cbd-499c-8537-0707c12c1a4b.png)
 ![image](https://user-images.githubusercontent.com/118679646/232743122-8969a0f7-9230-4709-a2c6-15627fb29bcd.png)
 ![image](https://user-images.githubusercontent.com/118679646/232743278-e4569840-9b3f-48c4-bc5a-b5c45c0a5999.png)
+
+# RESULT:
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
